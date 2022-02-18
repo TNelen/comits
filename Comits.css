@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("/images/akrales_190913_3666_0126.01.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/akrales_190913_3666_0126.01.jpg");
   background-position: 61.08% 0%;
   background-size: 115%;
 }
@@ -268,7 +268,7 @@
 .u-section-3 .u-image-1 {
   width: 291px;
   height: 290px;
-  background-image: url("/images/unnamed.jpg");
+  background-image: url("images/unnamed.jpg");
   background-position: 50% 50%;
   margin: 54px auto 0;
 }
@@ -1012,7 +1012,7 @@
 .u-section-7 .u-image-1 {
   width: 152px;
   height: 152px;
-  background-image: url("/images/3.jpg");
+  background-image: url("images/3.jpg");
   background-position: 50% 50%;
   margin: 20px auto 0;
 }
@@ -1053,7 +1053,7 @@
 .u-section-7 .u-image-2 {
   width: 152px;
   height: 152px;
-  background-image: url("/images/1.jpg");
+  background-image: url("images/1.jpg");
   background-position: 50% 50%;
   margin: 20px 478px 0 450px;
 }
