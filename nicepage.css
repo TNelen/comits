@@ -36872,7 +36872,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {
   width: 97px;
   height: 64px;
-  margin: 22px auto 22px 0;
+  margin: 22px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -36886,7 +36886,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 96px;
+  }
 
+  .u-header .u-image-1 {
+    margin-bottom: 10px;
+  }
+}
  .u-footer {
   background-image: none;
 }
